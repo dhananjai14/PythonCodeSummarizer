@@ -1,0 +1,10 @@
+openai==0.28
+tiktoken 
+chromadb==0.4.4
+langchain==0.0.249
+flask
+GitPython
+python-dotenv
+langchain-chroma
+# Python 3.10.8
+-e .
